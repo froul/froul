@@ -1,4 +1,4 @@
-![FROUL](https://github.com/user-attachments/assets/217cc304-c857-4363-a654-061ce9ec141b)
+![FROUL](https://raw.githubusercontent.com/froul/froul/refs/heads/main/FROUL.png)
 
 ## 🎨 **Designer & Frontend Developer**
 
