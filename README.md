@@ -10,7 +10,7 @@ I am a UI/UX designer with big experience in frontend development. I specialize 
 ##  Stack
 ![STACK](https://raw.githubusercontent.com/froul/froul/refs/heads/main/stack.png)
 -  **Frontend**: `HTML` `CSS` `JavaScript`
--  **Framework/Libs:** `React` `Next.js` `Tailwind`
+-  **Framework/Libs:** `React` `Next.js`
 -  **UI/UX**: `Figma` `Photoshop` `Illustrator` `After Effect`
 -  **Other**: `Python`
 
